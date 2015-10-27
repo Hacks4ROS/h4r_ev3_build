@@ -1,0 +1,15 @@
+[submodule "extra-layers/meta-h4r-ev3"]
+	path = extra-layers/meta-h4r-ev3
+	url = git@github.com:Hacks4ROS/meta-h4r-ev3.git
+[submodule "extra-layers/meta-ros"]
+	path = extra-layers/meta-ros
+	url = git@github.com:bmwcarit/meta-ros.git
+[submodule "dist/poky"]
+	path = dist/poky
+	url = git://git.yoctoproject.org/poky
+[submodule "extra-layers/meta-ti"]
+	path = extra-layers/meta-ti
+	url = git://git.yoctoproject.org/meta-ti
+[submodule "extra-layers/meta-openembedded"]
+	path = extra-layers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
