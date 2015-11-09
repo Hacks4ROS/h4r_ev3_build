@@ -1,0 +1,14 @@
+build/cache/*  
+build/downloads/*
+build/sstate-cache/*  
+build/tmp/*
+.metadata/*
+RemoteSystemsTempFiles/*
+build/bitbake.lock
+build/cache/*
+build/conf/sanity_info
+build/sstate-cache/*
+dist/.project
+dist/bitbake.env
+extra-layers/bitbake.env
+
